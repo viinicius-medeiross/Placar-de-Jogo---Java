@@ -48,3 +48,10 @@ Desenvolvido com foco em prática de lógica de programação, entrada de dados 
 - 📧 medeiros_tech@outlook.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vinicius-medeiros-1b192b270/)
 - 📦 Projeto pessoal criado para fins educacionais e práticos.
+
+---
+
+## 📄 Exemplo de uso
+Durante a execução, o terminal exibirá o seguinte:
+
+![Compilando o código](imagem/resultado_projeto.png)
